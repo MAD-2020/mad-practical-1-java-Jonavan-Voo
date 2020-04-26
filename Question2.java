@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-class Main {
+public class Question2 {
   public static void main(String[] args) {
     //scanner to get user input
     Scanner myObj = new Scanner(System.in);
